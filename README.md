@@ -3,7 +3,7 @@
 
 ## Snapshot of Dashboard (Power BI Service)
 
-![Dashboard_Snapshot]()
+![Dashboard_Snapshot](https://github.com/kscheran93/Power-BI-Amazon-Prime-movies-and-TV-shows-Dashboard/blob/main/amazon%20prime%20dashboard.png)
 
 ### Dashboard Link: [Your Power BI Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiN2MzMWVlYWItYzZiYy00NjQxLWFhZDEtOTBkYTYxZGEyODIxIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
