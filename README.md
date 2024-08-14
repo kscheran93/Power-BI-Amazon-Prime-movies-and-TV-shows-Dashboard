@@ -3,9 +3,9 @@
 
 ## Snapshot of Dashboard (Power BI Service)
 
-![Dashboard_Snapshot](https://app.powerbi.com/view?r=eyJrIjoiN2MzMWVlYWItYzZiYy00NjQxLWFhZDEtOTBkYTYxZGEyODIxIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+![Dashboard_Snapshot]()
 
-### Dashboard Link: [Your Power BI Dashboard Link](your_dashboard_link_here)
+### Dashboard Link: [Your Power BI Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiN2MzMWVlYWItYzZiYy00NjQxLWFhZDEtOTBkYTYxZGEyODIxIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 ## Problem Statement
 
